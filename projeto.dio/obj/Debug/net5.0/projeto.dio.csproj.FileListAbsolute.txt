@@ -1,0 +1,16 @@
+C:\workspace\Revisão\projeto.dio\obj\Debug\net5.0\projeto.dio.csprojAssemblyReference.cache
+C:\workspace\Revisão\projeto.dio\obj\Debug\net5.0\projeto.dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Revisão\projeto.dio\obj\Debug\net5.0\projeto.dio.AssemblyInfoInputs.cache
+C:\workspace\Revisão\projeto.dio\obj\Debug\net5.0\projeto.dio.AssemblyInfo.cs
+C:\workspace\Revisão\projeto.dio\obj\Debug\net5.0\projeto.dio.csproj.CoreCompileInputs.cache
+C:\workspace\Revisão\projeto.dio\bin\Debug\net5.0\projeto.dio.exe
+C:\workspace\Revisão\projeto.dio\bin\Debug\net5.0\projeto.dio.deps.json
+C:\workspace\Revisão\projeto.dio\bin\Debug\net5.0\projeto.dio.runtimeconfig.json
+C:\workspace\Revisão\projeto.dio\bin\Debug\net5.0\projeto.dio.runtimeconfig.dev.json
+C:\workspace\Revisão\projeto.dio\bin\Debug\net5.0\projeto.dio.dll
+C:\workspace\Revisão\projeto.dio\bin\Debug\net5.0\ref\projeto.dio.dll
+C:\workspace\Revisão\projeto.dio\bin\Debug\net5.0\projeto.dio.pdb
+C:\workspace\Revisão\projeto.dio\obj\Debug\net5.0\projeto.dio.dll
+C:\workspace\Revisão\projeto.dio\obj\Debug\net5.0\ref\projeto.dio.dll
+C:\workspace\Revisão\projeto.dio\obj\Debug\net5.0\projeto.dio.pdb
+C:\workspace\Revisão\projeto.dio\obj\Debug\net5.0\projeto.dio.genruntimeconfig.cache
